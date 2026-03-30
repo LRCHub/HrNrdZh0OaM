@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "ひみつ基地",
+  "base_artist": "結束バンド",
+  "createdAt": "2026-03-30T15:58:37.304927Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ひみつ基地",
+      "artist": "結束バンド",
+      "has_synced": false,
+      "path": "select/01_ひみつ基地_結束バンド.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ひみつ基地 -恒星- Live ver.",
+      "artist": "結束バンド",
+      "has_synced": true,
+      "path": "select/02_ひみつ基地_-恒星-_Live_ver._結束バンド.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ひみつ基地 -恒星- Live ver.",
+      "artist": "結束バンド (青山吉能, 鈴代紗弓, 水野朔, 長谷川育美)",
+      "has_synced": true,
+      "path": "select/03_ひみつ基地_-恒星-_Live_ver._結束バンド_(青山吉能,_鈴代紗弓,_水野朔,_長谷川育美).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ひみつ基地",
+      "artist": "kessoku band",
+      "has_synced": true,
+      "path": "select/04_ひみつ基地_kessoku_band.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ひみつ基地 -恒星- Live ver.",
+      "artist": "kessoku band",
+      "has_synced": true,
+      "path": "select/05_ひみつ基地_-恒星-_Live_ver._kessoku_band.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ひみつ基地-秘密基地",
+      "artist": "kessoku band",
+      "has_synced": true,
+      "path": "select/06_ひみつ基地-秘密基地_kessoku_band.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ひみつ基地",
+      "artist": "Kessoku Band",
+      "has_synced": true,
+      "path": "select/07_ひみつ基地_Kessoku_Band.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ひみつ基地",
+      "artist": "結束バンド",
+      "has_synced": true,
+      "path": "select/08_ひみつ基地_結束バンド.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ひみつ基地",
+      "artist": "結束バンド",
+      "has_synced": false,
+      "path": "select/pl_01_ひみつ基地_結束バンド.txt"
+    }
+  ]
+}
